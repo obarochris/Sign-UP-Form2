@@ -1,0 +1,42 @@
+.a {
+margin-left:10px;
+border-radius:4px;
+}
+
+.b {
+margin:auto;
+font-size:18px;
+width:500px;
+
+}
+input, button{
+margin-left:60px;
+border-radius:5px;
+width:380px;
+height:30px;
+border:1px solid grey;
+margin-top:15px;
+}
+
+body{
+//background-color:pink;
+ background-image:url("pix6.jpg");
+background-repeat: repeat; 
+background-repeat: repeat-x;
+}
+.form{
+width:500px;
+border:1px solid white;
+margin:auto;
+border-radius:20px;
+margin-top:5px;
+background-color:white;
+}
+
+a:link {
+background-color: black;
+{
+
+a:hover {
+background-color: yellow;
+{
